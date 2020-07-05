@@ -1,4 +1,4 @@
-package codingCracking;
+package codingCracking.arrays;
 
 public class RotateMatirix {
 

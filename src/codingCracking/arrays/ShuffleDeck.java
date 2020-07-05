@@ -1,4 +1,4 @@
-package codingCracking;
+package codingCracking.arrays;
 
 import java.util.List;
 import java.util.Random;
